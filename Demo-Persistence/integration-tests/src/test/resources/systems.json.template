@@ -1,9 +1,0 @@
-{
-  "credentials": [
-    {
-      "alias": "SID_CLIENT",
-      "username": "username",
-      "password": "password"
-    }
-  ]
-}

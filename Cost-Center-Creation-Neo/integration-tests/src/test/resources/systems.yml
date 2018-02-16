@@ -1,8 +1,0 @@
----
-erp:
-  default: "ErpQueryEndpoint"
-  systems:
-    - alias: "ErpQueryEndpoint"
-      sapClient: "<client>"
-      applicationServer: "<applicationServer>"
-      instanceNumber: "<instanceNumber"
